@@ -1,0 +1,2 @@
+q1=/home/duongnguyen/ERR3888540_1.fastq.gz
+q2=/home/duongnguyen/ERR3888540_2.fastq.gz
